@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akostkasmith
 - 👀 I’m interested in coding, photography, hiking, camping, family
-- 🌱 I’m currently expanding my knowledge in Ruby on Rails & Angular
+- 🌱 I’m currently expanding my knowledge in Ruby on Rails, React Native & AngularJS
 - 📫 How to reach me: aaron@aaronkostkasmith.dev
 
 <!---
